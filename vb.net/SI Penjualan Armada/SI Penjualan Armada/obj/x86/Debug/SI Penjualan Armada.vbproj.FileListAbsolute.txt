@@ -1,0 +1,3 @@
+D:\SI Penjualan Armada\SI Penjualan Armada\bin\Debug\SI Penjualan Armada.exe.config
+D:\SI Penjualan Armada\SI Penjualan Armada\obj\x86\Debug\SI Penjualan Armada.xml
+D:\SI Penjualan Armada\SI Penjualan Armada\obj\x86\Debug\SI Penjualan Armada.pdb

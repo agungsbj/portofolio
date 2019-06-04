@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{22A718CC-EB61-4460-9BE7-DBD7A0135812}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sistem_220Informasi_220Rekam_220Medis_220Klinik_220Medika PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sistem Informasi Rekam Medis Klinik Medika/Laporan/CetakKartuAntrian.Designer.vb">
+    <Files>
+      <File FileName="Sistem Informasi Rekam Medis Klinik Medika/Laporan/CetakKartuAntrian.Designer.vb" Line="66" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sistem Informasi Rekam Medis Klinik Medika" expanded="True">
+            <Node name="Sistem Informasi Rekam Medis Klinik Medika" expanded="True">
+              <Node name="Laporan" expanded="True">
+                <Node name="CetakKartuAntrian.vb" expanded="True">
+                  <Node name="CetakKartuAntrian.Designer.vb" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

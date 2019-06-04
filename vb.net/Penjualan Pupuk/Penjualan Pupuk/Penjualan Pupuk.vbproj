@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{796A2892-3C67-4624-9E96-5ACB0242EC82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Penjualan_Pupuk.My.MyApplication</StartupObject>
+    <RootNamespace>Penjualan_Pupuk</RootNamespace>
+    <AssemblyName>Penjualan Pupuk</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>E:\Agro Mulia\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>id-ID</TargetCulture>
+    <ProductName>Sistem Informasi Penjualan Agro Mulia</ProductName>
+    <PublisherName>Agro Mulia</PublisherName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Penjualan Pupuk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Penjualan Pupuk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8F5C8865A5D02A223A333C566CCA2DA58DA6D60D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Penjualan Pupuk_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cetaknotaangsur.Designer.vb">
+      <DependentUpon>cetaknotaangsur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cetaknotaangsur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCtkLapJualBeli.Designer.vb">
+      <DependentUpon>FormCtkLapJualBeli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCtkLapJualBeli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapBarang.Designer.vb">
+      <DependentUpon>FormLapBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapBeli.Designer.vb">
+      <DependentUpon>FormLapBeli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapBeli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLihatTrans.Designer.vb">
+      <DependentUpon>FormLihatTrans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLihatTrans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBandingHarga.Designer.vb">
+      <DependentUpon>FormBandingHarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBandingHarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapJual.Designer.vb">
+      <DependentUpon>FormLapJual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapJual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLihatBarang3.Designer.vb">
+      <DependentUpon>FormLihatBarang3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLihatBarang3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPelunasan.Designer.vb">
+      <DependentUpon>FormPelunasan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPelunasan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPenjualanpribadi.Designer.vb">
+      <DependentUpon>FormPenjualanpribadi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPenjualanpribadi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTBrg.Designer.vb">
+      <DependentUpon>FormTBrg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTBrg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPel.Designer.vb">
+      <DependentUpon>FormTPel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTSupp.Designer.vb">
+      <DependentUpon>FormTSupp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTSupp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notaangsur.vb">
+      <DependentUpon>notaangsur.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="FormPembelian.Designer.vb">
+      <DependentUpon>FormPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLihatBarang2.Designer.vb">
+      <DependentUpon>FormLihatBarang2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLihatBarang2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPelanggan.Designer.vb">
+      <DependentUpon>FormPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBarang.Designer.vb">
+      <DependentUpon>FormBarang.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLihatBarang.Designer.vb">
+      <DependentUpon>FormLihatBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLihatBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.vb">
+      <DependentUpon>FormMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPenjualan.Designer.vb">
+      <DependentUpon>FormPenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSupplier.Designer.vb">
+      <DependentUpon>FormSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.vb">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptbarang.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptbarang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptpembelian.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptpembelian.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptpenjualan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptpenjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="trendbrg1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>trendbrg.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="trendpel.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>trendpel.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="trendsupp.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>trendsupp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cetaknotaangsur.resx">
+      <DependentUpon>cetaknotaangsur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCtkLapJualBeli.resx">
+      <DependentUpon>FormCtkLapJualBeli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapBarang.resx">
+      <DependentUpon>FormLapBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapBeli.resx">
+      <DependentUpon>FormLapBeli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLihatTrans.resx">
+      <DependentUpon>FormLihatTrans.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBandingHarga.resx">
+      <DependentUpon>FormBandingHarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapJual.resx">
+      <DependentUpon>FormLapJual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLihatBarang3.resx">
+      <DependentUpon>FormLihatBarang3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPelunasan.resx">
+      <DependentUpon>FormPelunasan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPenjualanpribadi.resx">
+      <DependentUpon>FormPenjualanpribadi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTBrg.resx">
+      <DependentUpon>FormTBrg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPel.resx">
+      <DependentUpon>FormTPel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTSupp.resx">
+      <DependentUpon>FormTSupp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notaangsur.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>notaangsur.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPembelian.resx">
+      <DependentUpon>FormPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLihatBarang2.resx">
+      <DependentUpon>FormLihatBarang2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPelanggan.resx">
+      <DependentUpon>FormPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBarang.resx">
+      <DependentUpon>FormBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLihatBarang.resx">
+      <DependentUpon>FormLihatBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPenjualan.resx">
+      <DependentUpon>FormPenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSupplier.resx">
+      <DependentUpon>FormSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptbarang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptbarang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptpembelian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptpembelian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptpenjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptpenjualan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trendbrg.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>trendbrg1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trendpel.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>trendpel.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trendsupp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>trendsupp.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Penjualan Pupuk_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

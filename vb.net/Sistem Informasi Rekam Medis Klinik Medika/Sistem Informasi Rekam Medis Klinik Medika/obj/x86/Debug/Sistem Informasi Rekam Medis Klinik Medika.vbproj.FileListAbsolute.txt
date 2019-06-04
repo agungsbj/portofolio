@@ -1,0 +1,85 @@
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.xml
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.pdb
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.vbprojResolveAssemblyReference.cache
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Antrian.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Lapobat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarPembayaran.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Datapasien.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakKartuAntrian.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakNota.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapRMed.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapUang.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapObat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Lapuang.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakKwitansi.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarSkes.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LihatRM.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.RekamMedis.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakKartuBerobat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LapPasien.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LapRM.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LapBuatSurat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapPasien.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapBuatSurat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuPendaftaran.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Menukasir.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuRM.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuUtama.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Pembayaran.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarPasien.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarObat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarUser.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Pasien.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.RiwayatRM.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.SuratKesehatan.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.SuratKet.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Tarif.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.User.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LogAktivitas.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuAdmin.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Resources.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Obat.resources
+D:/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.vbproj.GenerateResource.Cache
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.vbprojAssemblyReference.cache
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Antrian.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Lapobat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarPembayaran.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Datapasien.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakKartuAntrian.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakNota.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapRMed.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapUang.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapObat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Lapuang.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakKwitansi.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarSkes.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LihatRM.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.RekamMedis.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.CetakKartuBerobat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LapPasien.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LapRM.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LapBuatSurat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapPasien.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.FLapBuatSurat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuPendaftaran.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Menukasir.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuRM.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuUtama.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Pembayaran.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarPasien.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarObat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.DaftarUser.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Pasien.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.RiwayatRM.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.SuratKesehatan.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.SuratKet.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Tarif.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.User.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.LogAktivitas.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.MenuAdmin.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Resources.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem_Informasi_Rekam_Medis_Klinik_Medika.Obat.resources
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.vbproj.GenerateResource.cache
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.vbproj.CoreCompileInputs.cache
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.xml
+/Volumes/Data/Projek SI/Sistem Informasi Rekam Medis Klinik Medika/Sistem Informasi Rekam Medis Klinik Medika/obj/x86/Debug/Sistem Informasi Rekam Medis Klinik Medika.pdb
